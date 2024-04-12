@@ -2,7 +2,7 @@
 #include "MyMath/MatrixMath.h"
 #include "MyMath/MyMath.h"
 
-const char kWindowTitle[] = "イシカワタケシ_MT3_01_01_応用課題";
+const char kWindowTitle[] = "LE2C_イシカワタケシ_MT3_01_01_応用課題";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
